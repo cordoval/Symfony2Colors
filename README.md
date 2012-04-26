@@ -3,6 +3,18 @@ Symfony2 Colors is a PHPStorm color theme
 
 # 1) Change to the appropriate directory
 
+## Ubuntu Linux
+### PHPStorm versions prior to 4.0
+
+```bash
+cd ~/.WebIde10/config/colors
+```
+
+### PHPStorm version 4.0
+```bash
+cd ~/.WebIde40/config/colors
+```
+
 ## Mac OS X
 ### PHPStorm versions prior to 4.0
 
