@@ -19,13 +19,13 @@ cd ~/Library/Preferences/WebIde40/colors/
 ### PHPStorm versions prior to 4.0
 
 ```bash
-c:/Users/USERNAME/.WebIde10/config/colors
+cd c:/Users/USERNAME/.WebIde10/config/colors
 ```
 
 ### PHPStorm version 4.0
 
 ```bash
-c:/Users/USERNAME/.WebIde40/config/colors
+cd c:/Users/USERNAME/.WebIde40/config/colors
 ```
 
 # 2) Install the file
