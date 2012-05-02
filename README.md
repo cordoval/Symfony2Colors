@@ -1,7 +1,7 @@
 Symfony2 Colors is a PHPStorm color theme
 -----------------------------------------
 
-![Preview](http://www.craftitonline.com/wp-content/uploads/2012/04/Selection_258.png)
+![Preview](http://www.craftitonline.com/wp-content/uploads/2012/05/screenshot.png)
 
 # 1) Change to the appropriate directory
 
