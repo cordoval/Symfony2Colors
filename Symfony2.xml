@@ -473,7 +473,7 @@
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" value="db312e" />
         <option name="EFFECT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
     <option name="External command">
@@ -2913,7 +2913,7 @@
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="5" />
-        <option name="ERROR_STRIPE_COLOR" />
+        <option name="ERROR_STRIPE_COLOR" value="ff" />
       </value>
     </option>
     <option name="TWIG_BACKGROUND">
