@@ -22,6 +22,11 @@ cd ~/.WebIde40/config/colors
 cd ~/.WebIde50/config/colors
 ```
 
+### PHPStorm version 6.x
+```bash
+cd ~/.WebIde60/config/colors
+```
+
 ## Mac OS X
 ### PHPStorm versions prior to 4.0
 
@@ -37,6 +42,11 @@ cd ~/Library/Preferences/WebIde40/colors/
 ### PHPStorm version 5.x
 ```bash
 cd ~/Library/Preferences/WebIde50/colors/
+```
+
+### PHPStorm version 6.x
+```bash
+cd ~/Library/Preferences/WebIde60/colors/
 ```
 
 ## Windows Installation
@@ -56,6 +66,12 @@ cd c:/Users/USERNAME/.WebIde40/config/colors
 
 ```bash
 cd c:/Users/USERNAME/.WebIde50/config/colors
+```
+
+### PHPStorm version 6.x
+
+```bash
+cd c:/Users/USERNAME/.WebIde60/config/colors
 ```
 
 # 2) Install the file
