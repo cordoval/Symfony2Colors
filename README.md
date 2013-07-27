@@ -49,6 +49,11 @@ cd ~/Library/Preferences/WebIde50/colors/
 cd ~/Library/Preferences/WebIde60/colors/
 ```
 
+### PHPStorm version 7.x
+```bash
+cd ~/Library/Preferences/WebIde70/colors/
+```
+
 ## Windows Installation
 ### PHPStorm versions prior to 4.0
 
